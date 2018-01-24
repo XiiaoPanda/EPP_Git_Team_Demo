@@ -6,9 +6,9 @@ All statements starts as "Code A" in this file
 
 1. Code A
 2. Code A
-X. Code A
+X. Code Uno
 4. Code A
-X. Code A
+X. Code Uno
 6. Code A
 7. Code A
 8. Code A
